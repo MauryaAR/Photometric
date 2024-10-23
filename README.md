@@ -1,6 +1,7 @@
 **Objective:** We have a set of fabric and color checker images captured from 9 different angles, and our goal is to develop a program that can process these images for 3D rendering. 
 This involves several key steps: image cropping, color correction, and ultimately generating albedo image. Currently, we're using art engine to achieve the desired outcome. 
 This result can be obtained with the 3D rendering process relying on the Photometric stereo  technique. 
+
 Here's step-by-step guide to using photometric stereo on fabrics: 
 
 **1. Capture multiple images:**
