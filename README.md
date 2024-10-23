@@ -2,7 +2,7 @@
 This involves several key steps: image cropping, color correction, and ultimately generating albedo image. Currently, we're using art engine to achieve the desired outcome. 
 This result can be obtained with the 3D rendering process relying on the Photometric stereo  technique. Here's step-by-step guide to using photometric stereo on fabrics: 
 
--**1. Capture multiple images:**
+**1. Capture multiple images:**
 
   Take images with only one light source active at a time. 
   
